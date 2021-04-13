@@ -1,0 +1,13 @@
+C:\Users\ksmil\source\repos\TheGame\TheGame\bin\Debug\netcoreapp3.1\TheGame.exe
+C:\Users\ksmil\source\repos\TheGame\TheGame\bin\Debug\netcoreapp3.1\TheGame.deps.json
+C:\Users\ksmil\source\repos\TheGame\TheGame\bin\Debug\netcoreapp3.1\TheGame.runtimeconfig.json
+C:\Users\ksmil\source\repos\TheGame\TheGame\bin\Debug\netcoreapp3.1\TheGame.runtimeconfig.dev.json
+C:\Users\ksmil\source\repos\TheGame\TheGame\bin\Debug\netcoreapp3.1\TheGame.dll
+C:\Users\ksmil\source\repos\TheGame\TheGame\bin\Debug\netcoreapp3.1\TheGame.pdb
+C:\Users\ksmil\source\repos\TheGame\TheGame\obj\Debug\netcoreapp3.1\TheGame.csprojAssemblyReference.cache
+C:\Users\ksmil\source\repos\TheGame\TheGame\obj\Debug\netcoreapp3.1\TheGame.AssemblyInfoInputs.cache
+C:\Users\ksmil\source\repos\TheGame\TheGame\obj\Debug\netcoreapp3.1\TheGame.AssemblyInfo.cs
+C:\Users\ksmil\source\repos\TheGame\TheGame\obj\Debug\netcoreapp3.1\TheGame.csproj.CoreCompileInputs.cache
+C:\Users\ksmil\source\repos\TheGame\TheGame\obj\Debug\netcoreapp3.1\TheGame.dll
+C:\Users\ksmil\source\repos\TheGame\TheGame\obj\Debug\netcoreapp3.1\TheGame.pdb
+C:\Users\ksmil\source\repos\TheGame\TheGame\obj\Debug\netcoreapp3.1\TheGame.genruntimeconfig.cache
